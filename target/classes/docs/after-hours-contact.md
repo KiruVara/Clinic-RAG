@@ -18,3 +18,4 @@ Our clinic provides limited after-hours support for urgent medical concerns.
 
 - No prescription renewals after hours.
 - No form completion or administrative requests.
+- Overnight stays are not permitted. The clinic does not operate 24-hour inpatient services.

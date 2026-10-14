@@ -23,3 +23,4 @@ Maple Grove Community Clinic welcomes visitors who accompany patients to their a
 Visitors are welcome during regular clinic hours:
 - Monday–Friday: 8:30 AM to 5:00 PM
 - Saturday: 9:00 AM to 1:00 PM
+Overnight stays are not permitted. The clinic does not operate 24-hour inpatient services.

@@ -1,3 +1,8 @@
-com\example\clinicrag\IngestController.class
+com\example\clinicrag\AskController.class
+com\example\clinicrag\AskService.class
+com\example\clinicrag\AskController$AskRequest.class
 com\example\clinicrag\IngestionService.class
 com\example\clinicrag\ClinicragApplication.class
+com\example\clinicrag\IngestController.class
+com\example\clinicrag\PromptBuilder.class
+com\example\clinicrag\AskService$Answer.class

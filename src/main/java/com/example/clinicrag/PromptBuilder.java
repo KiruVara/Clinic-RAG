@@ -13,6 +13,8 @@ public class PromptBuilder {
             "I don't have that information. Please contact the clinic at 123-456-7890."
             Keep answers short and clear.
             """;
+    public static final String NO_ANSWER = "I don't have that information.";
+
     private PromptBuilder(){};
 
     public static String buildUserMessage(String question, List<Document> chunks) {

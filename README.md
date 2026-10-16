@@ -7,11 +7,11 @@ A Spring Boot service that answers questions about a fictional clinic's policies
 Built by Kiru V as a learning project to practice building AI features in a Java backend. 
 
 ## Status
-- [[x]] Project setup (Spring Boot, Spring AI, pgvector in Docker)
-- [[x] ] Sample documents
-- [[x]] Ingestion (chunk, embed, store)
-- [[x]] `/api/ask` endpoint (retrieve, prompt, answer with sources)
-- [[x]] Error handling, logging, caching
+- [x] Project setup (Spring Boot, Spring AI, pgvector in Docker)
+- [x] Sample documents
+- [x] Ingestion (chunk, embed, store)
+- [x] `/api/ask` endpoint (retrieve, prompt, answer with sources)
+- [x] Error handling, logging, caching
 - [ ] Tests
 - [ ] Evaluation with results
 
@@ -66,7 +66,7 @@ Response:
 **Phone:** 123-456-7890
 ```
 
-A question the documents can't answer, and what it said:
+For a question the documents can't answer, it will say:
 ```
 I don't have that information. Please contact the clinic at 123-456-7890.
 ```
